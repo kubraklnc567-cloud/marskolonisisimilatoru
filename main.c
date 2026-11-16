@@ -8,7 +8,6 @@
 //  Mars Kolonisi Yasam Destek Simulatoru
 //
 
-// Visual Studio'da scanf icin verilen C4996 uyarisini kapatir (diger derleyicilerde etkisizdir)
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
