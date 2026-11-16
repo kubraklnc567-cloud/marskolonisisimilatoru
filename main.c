@@ -1,11 +1,4 @@
 
-//  main.c
-//  MyTool
-//
-//  Created by KÜBRA on 15.11.2026.
-//
-
-
 //
 //  main.c
 //  MyTool
